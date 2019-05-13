@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.main.Chatroom.Main
+Class-Path: ./lib/beautyeye_lnf.jar
